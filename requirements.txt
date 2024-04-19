@@ -1,0 +1,4 @@
+paho-mqtt
+pika
+pymongo
+python-dotenv
